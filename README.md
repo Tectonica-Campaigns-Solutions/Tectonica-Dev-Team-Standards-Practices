@@ -1,7 +1,5 @@
 # Tectonica Dev Team Standards and Practices
 
-# Dev Team Standards and Practices - Jamstack Projects
-
 ## Overview
 Brief description of this repository's purpose - serving as the central documentation for development standards, best practices, and guidelines for our Jamstack projects using NextJS, DatoCMS, and Netlify/Vercel.
 
