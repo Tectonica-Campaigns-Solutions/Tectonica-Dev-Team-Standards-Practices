@@ -19,7 +19,7 @@ Brief description of this repository's purpose - serving as the central document
 - **CMS**: DatoCMS
 - **Deployment**: Netlify / Vercel
 - **Language**: TypeScript/JavaScript
-- **Styling**: [CSS Modules/Tailwind/Styled Components]
+- **Styling**: [CSS Modules/Bootstrap/Styled Components]
 - **Package Manager**: [npm/yarn/pnpm]
 
 ### Additional Tools
